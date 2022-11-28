@@ -26,6 +26,15 @@ Importancia y eficiencia del uso de las listas doblemente ligadas
 4. Despliegue los registros correspondientes a esas ips.
 5. Almacenar en un archivo el resultado del ordenamiento.
 
+## Actividad 3.1
+Implementacion de un BST
+
+## Actividad 3.2
+Árbol Heap: Implementando una fila priorizada (Priority Queue)
+
+## Actividad 4.1
+Grafo: sus representaciones y sus recorridos
+
 ## Actividad 4.3 (Evidencia Grafos)
 Investigación y reflexión de la importancia y eficiencia del uso grafos.
 
