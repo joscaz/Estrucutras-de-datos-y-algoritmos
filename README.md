@@ -1,6 +1,9 @@
 # Estrucutras-de-datos-y-algoritmos
 Curso TC1031 del Tecnologico de Monterrey
 
+## Actividad 1.1
+Calcula la complejidad computacional en el peor de los casos de la función F. Justifique cada uno de los cálculos.
+
 ## Actividad 1.3 (Evidencia)
 Algoritmos de ordenamiento y búsqueda.
 
