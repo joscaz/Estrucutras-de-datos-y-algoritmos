@@ -1,0 +1,3 @@
+/Users/josecarloszertuche/CLionProjects/Tarea2TDA/cmake-build-debug/CMakeFiles/Tarea2TDA.dir
+/Users/josecarloszertuche/CLionProjects/Tarea2TDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/josecarloszertuche/CLionProjects/Tarea2TDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
