@@ -14,6 +14,9 @@ Algoritmos de ordenamiento y búsqueda.
 Cumple correctamente con las funcionalidades requeridas por parte de la actividad.
 [La actividad se encuentra aquí](https://github.com/joscaz/Estrucutras-de-datos-y-algoritmos/blob/main/images/Actividad%20Act%202.1_Ejercicio%20con%20el%20TDA%20Lista.pdf)
 
+## Actividad 2.2
+De manera individual, implemente el TDA Lista Doblemente Enlazada estudiado en clase. Puede apoyarse en el proyecto desarrollado en clases donde se implementaron los TDA Lista con Arreglo y Lista Doblemente Enlazada.
+
 ## Actividad 2.3 (Evidencia)
 Importancia y eficiencia del uso de las listas doblemente ligadas
 
