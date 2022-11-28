@@ -12,7 +12,7 @@ Algoritmos de ordenamiento y búsqueda.
 
 ## Actividad 2.1
 Cumple correctamente con las funcionalidades requeridas por parte de la actividad.
-[La actividad se encuentra aquí](Estrucutras-de-datos-y-algoritmos/Actividad Act 2.1_Ejercicio con el TDA Lista.pdf)
+[La actividad se encuentra aquí](Actividad Act 2.1_Ejercicio con el TDA Lista.pdf)
 
 ## Actividad 2.3 (Evidencia)
 Importancia y eficiencia del uso de las listas doblemente ligadas
