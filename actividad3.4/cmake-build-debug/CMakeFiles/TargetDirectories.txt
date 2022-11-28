@@ -1,3 +1,0 @@
-/Users/josecarloszertuche/Downloads/actividad3.4/cmake-build-debug/CMakeFiles/actividad3_4.dir
-/Users/josecarloszertuche/Downloads/actividad3.4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/josecarloszertuche/Downloads/actividad3.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
