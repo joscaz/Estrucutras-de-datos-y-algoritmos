@@ -2,10 +2,12 @@
  dentro de un archivo. Se utilizan los métodos de Merge Sort y Búsqueda Binaria
  e imprime el listado de datos desde el ip inicial hasta el ip final
  proporcionadas por el usuario.
-
- Autoras: Alejandro Mendoza Prado
- Matriculas: A00819383
-
+Equipo conformado por:
+Jose Carlos Zertuche de la Cruz A01198177
+Guillermo Garrido torres A00835087
+Eugenio Herrera Garza A01721377
+Adrian Cantu Antunez A01284748
+Alejandro Mendoza Prado A00819383
  */
 
 #include <fstream>
