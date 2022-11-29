@@ -1,3 +1,12 @@
+/*
+Equipo conformado por:
+Jose Carlos Zertuche de la Cruz A01198177
+Guillermo Garrido torres A00835087
+Eugenio Herrera Garza A01721377
+Adrian Cantu Antunez A01284748
+Alejandro Mendoza Prado A00819383
+*/
+
 #include <iostream>
 #include "HashTable.h"
 
