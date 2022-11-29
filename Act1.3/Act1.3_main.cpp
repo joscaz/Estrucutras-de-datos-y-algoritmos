@@ -1,6 +1,4 @@
-/*Este programa muestra los algoritmos de ordenamiento y búsqueda para las fechas dentro de un archivo. Se utilizan los métodos de Bubble Sort y Búsqueda Binaria e imprime el listado de datos desde la fecha inicial hasta la fecha final proporcionadas por el usuario.
-Hecho por Alejandro Mendoza Prado
-*/
+/*Este programa muestra los algoritmos de ordenamiento y búsqueda para las fechas dentro de un archivo. Se utilizan los métodos de Bubble Sort y Búsqueda Binaria e imprime el listado de datos desde la fecha inicial hasta la fecha final proporcionadas por el usuario.*/
 #include <fstream>
 #include <iostream>
 #include <string>
